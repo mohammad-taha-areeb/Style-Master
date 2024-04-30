@@ -146,7 +146,7 @@ const HtmlRunner = () => {
 
 
     return (
-        <div>
+        <div className="big-box">
             {/* <OffcanvasExample /> */}
             <div className="main-container">
                 <div className="container">
