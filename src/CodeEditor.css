@@ -12,10 +12,10 @@
 }
 
 
-.big-box{
+/* .big-box{
 width:full;
     height:full;
-}
+} */
 
 
 .second-container {
@@ -23,7 +23,7 @@ width:full;
     border-radius: 10px;
     /* margin-right: 20%; */
     /* padding: 10px; */
-    margin-left: 2%;
+/*     margin-left: 2%; */
     height: 440px;
     width: 540px;
     margin-right: 3%;
