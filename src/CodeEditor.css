@@ -33,7 +33,7 @@ width:full;
 .main-container {
     display: flex;
     justify-content: center;
-/*     margin-left: 17%; */
+    margin-left: 5%;
     /* flex-direction: row;
     align-items: flex-start; */
 /*     align-items: center; */
