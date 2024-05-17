@@ -150,7 +150,7 @@ const HtmlRunner = () => {
             {/* <OffcanvasExample /> */}
 
 
-            <h1 style={'text-align':'center','color':'gold','font-size':'15vh'}>Style Master</h1>
+            <h1 style={{'text-align':'center','color':'gold','font-size':'15vh'}}>Style Master</h1>
             <div className="main-container">
                 <div className="container">
                     <h3>Input</h3>
